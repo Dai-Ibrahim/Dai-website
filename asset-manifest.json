@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Dai-website/static/css/main.119ef512.chunk.css",
+    "main.js": "/Dai-website/static/js/main.29b70610.chunk.js",
+    "main.js.map": "/Dai-website/static/js/main.29b70610.chunk.js.map",
+    "runtime-main.js": "/Dai-website/static/js/runtime-main.76db82a9.js",
+    "runtime-main.js.map": "/Dai-website/static/js/runtime-main.76db82a9.js.map",
+    "static/js/2.f3fd7f90.chunk.js": "/Dai-website/static/js/2.f3fd7f90.chunk.js",
+    "static/js/2.f3fd7f90.chunk.js.map": "/Dai-website/static/js/2.f3fd7f90.chunk.js.map",
+    "index.html": "/Dai-website/index.html",
+    "precache-manifest.36c1a5dae7f4b2d7f3169055dc2546a3.js": "/Dai-website/precache-manifest.36c1a5dae7f4b2d7f3169055dc2546a3.js",
+    "service-worker.js": "/Dai-website/service-worker.js",
+    "static/css/main.119ef512.chunk.css.map": "/Dai-website/static/css/main.119ef512.chunk.css.map",
+    "static/js/2.f3fd7f90.chunk.js.LICENSE.txt": "/Dai-website/static/js/2.f3fd7f90.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.76db82a9.js",
+    "static/js/2.f3fd7f90.chunk.js",
+    "static/css/main.119ef512.chunk.css",
+    "static/js/main.29b70610.chunk.js"
+  ]
+}
