@@ -1,22 +1,43 @@
 {
   "files": {
     "main.css": "/Dai-website/static/css/main.119ef512.chunk.css",
-    "main.js": "/Dai-website/static/js/main.29b70610.chunk.js",
-    "main.js.map": "/Dai-website/static/js/main.29b70610.chunk.js.map",
+    "main.js": "/Dai-website/static/js/main.1662796d.chunk.js",
+    "main.js.map": "/Dai-website/static/js/main.1662796d.chunk.js.map",
     "runtime-main.js": "/Dai-website/static/js/runtime-main.76db82a9.js",
     "runtime-main.js.map": "/Dai-website/static/js/runtime-main.76db82a9.js.map",
-    "static/js/2.f3fd7f90.chunk.js": "/Dai-website/static/js/2.f3fd7f90.chunk.js",
-    "static/js/2.f3fd7f90.chunk.js.map": "/Dai-website/static/js/2.f3fd7f90.chunk.js.map",
+    "static/js/2.54b8f413.chunk.js": "/Dai-website/static/js/2.54b8f413.chunk.js",
+    "static/js/2.54b8f413.chunk.js.map": "/Dai-website/static/js/2.54b8f413.chunk.js.map",
     "index.html": "/Dai-website/index.html",
-    "precache-manifest.36c1a5dae7f4b2d7f3169055dc2546a3.js": "/Dai-website/precache-manifest.36c1a5dae7f4b2d7f3169055dc2546a3.js",
+    "precache-manifest.477452b66a3064f693a3f1cd7b332002.js": "/Dai-website/precache-manifest.477452b66a3064f693a3f1cd7b332002.js",
     "service-worker.js": "/Dai-website/service-worker.js",
     "static/css/main.119ef512.chunk.css.map": "/Dai-website/static/css/main.119ef512.chunk.css.map",
-    "static/js/2.f3fd7f90.chunk.js.LICENSE.txt": "/Dai-website/static/js/2.f3fd7f90.chunk.js.LICENSE.txt"
+    "static/js/2.54b8f413.chunk.js.LICENSE.txt": "/Dai-website/static/js/2.54b8f413.chunk.js.LICENSE.txt",
+    "static/media/img-CTF.jpg": "/Dai-website/static/media/img-CTF.b40f62cb.jpg",
+    "static/media/img-DI.jpg": "/Dai-website/static/media/img-DI.c3e8df01.jpg",
+    "static/media/img-IR.jpg": "/Dai-website/static/media/img-IR.630f2545.jpg",
+    "static/media/img-LaserTag.jpg": "/Dai-website/static/media/img-LaserTag.8b338307.jpg",
+    "static/media/img-RPG.jpg": "/Dai-website/static/media/img-RPG.9078269a.jpg",
+    "static/media/img-ai.jpg": "/Dai-website/static/media/img-ai.4ee9ace3.jpg",
+    "static/media/img-art.jpg": "/Dai-website/static/media/img-art.5cb5a3fa.jpg",
+    "static/media/img-art.jpeg": "/Dai-website/static/media/img-art.abd95666.jpeg",
+    "static/media/img-ball.jpg": "/Dai-website/static/media/img-ball.33cb9116.jpg",
+    "static/media/img-ca.jpg": "/Dai-website/static/media/img-ca.3d848b99.jpg",
+    "static/media/img-cake.jpg": "/Dai-website/static/media/img-cake.ae02937c.jpg",
+    "static/media/img-game.jpg": "/Dai-website/static/media/img-game.55ff01ee.jpg",
+    "static/media/img-iso.jpg": "/Dai-website/static/media/img-iso.f338a0a2.jpg",
+    "static/media/img-maze.jpg": "/Dai-website/static/media/img-maze.7cee0f82.jpg",
+    "static/media/img-multi.jpg": "/Dai-website/static/media/img-multi.ea718231.jpg",
+    "static/media/img-resume.png": "/Dai-website/static/media/img-resume.4f59ebdd.png",
+    "static/media/img-sm.jpg": "/Dai-website/static/media/img-sm.d9c1db86.jpg",
+    "static/media/img-sp.jpg": "/Dai-website/static/media/img-sp.1fadf0b0.jpg",
+    "static/media/img-tpf.jpg": "/Dai-website/static/media/img-tpf.5e86134c.jpg",
+    "static/media/img-witch.jpg": "/Dai-website/static/media/img-witch.cd1a372a.jpg",
+    "static/media/video-3.mp4": "/Dai-website/static/media/video-3.2dc28c9a.mp4"
   },
   "entrypoints": [
     "static/js/runtime-main.76db82a9.js",
-    "static/js/2.f3fd7f90.chunk.js",
+    "static/js/2.54b8f413.chunk.js",
     "static/css/main.119ef512.chunk.css",
-    "static/js/main.29b70610.chunk.js"
+    "static/js/main.1662796d.chunk.js"
   ]
 }
