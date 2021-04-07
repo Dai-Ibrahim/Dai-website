@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/Dai-website/precache-manifest.0d5a670ce400d26e3e0b62f010ce3612.js"
+  "/Dai-website/precache-manifest.72ca0b84e28bb1b84a83f30e8fef3257.js"
 );
 
 self.addEventListener('message', (event) => {
