@@ -7,6 +7,11 @@
 import React from 'react';
 import '../Cards.css';
 import CardItem from '../CardItem';
+import imgmulti from '../images/img-multi.jpg';
+import imggame from '../images/img-game.jpg';
+import imgaiclass from '../images/img-ai.jpg';
+import imgartclass from '../images/img-art.jpg';
+
 import {Route} from 'react-router-dom'
 
 function Classes() {
@@ -17,15 +22,15 @@ function Classes() {
         <div className='cards__wrapper'>
           <ul className='cards__items'>
             <CardItem
-              src='images/img-multi.jpg'
+              src= {imgmulti}
               text='Multiplayer Game Systems'
               label='SIM 450'
               path='/portfolio#mp'
             />
-            
-            
+
+
             <CardItem
-              src='images/img-game.jpg'
+              src= {imggame}
               text='Game Engine Architecture'
               label='SIM 335'
               path='/portfolio#ge'
@@ -33,13 +38,13 @@ function Classes() {
           </ul>
           <ul className='cards__items'>
             <CardItem
-              src='images/img-ai.jpg'
+              src= {imgaiclass}
               text='Artificial Intelligence'
               label='CS 455'
               path='/portfolio#ai'
             />
             <CardItem
-              src='images/img-art.jpg'
+              src= {imgartclass}
               text='Digital Illustration'
               label='SIM 115'
               path='/portfolio#art'
@@ -53,7 +58,7 @@ function Classes() {
           </ul>
         </div>
       </div>
-  
+
     </div>
   );
 }

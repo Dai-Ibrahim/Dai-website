@@ -1,6 +1,12 @@
 import React from 'react';
 import './Cards.css';
 import CardItem from './CardItem';
+import imgctf from './images/img-CTF.jpg';
+import imgdi from './images/img-DI.jpg';
+import imgmaze from './images/img-maze.jpg';
+import imgart from './images/img-art.jpeg';
+
+
 import {Route} from 'react-router-dom'
 
 function Cards() {
@@ -11,7 +17,7 @@ function Cards() {
         <div className='cards__wrapper'>
           <ul className='cards__items'>
             <CardItem
-              src='images/img-CTF.jpg'
+              src= {imgctf}
               text='A 4 player game where each player competes to get the hat and return it to their base to win.'
               label='Multiplayer Game'
               path='https://dai-ibrahim.github.io/CTF/'
@@ -19,7 +25,7 @@ function Cards() {
             
             
             <CardItem
-              src='images/img-DI.jpg'
+              src= {imgdi}
               text='A demonstration of the dependency injection design pattern of programming.'
               label='Design Patterns '
               path='https://dai-ibrahim.github.io/DependencyInjection/'
@@ -27,13 +33,13 @@ function Cards() {
           </ul>
           <ul className='cards__items'>
             <CardItem
-              src='images/img-maze.jpg'
+              src= {imgmaze}
               text='A program that auto generates a maze every second. Makes for a cool screensaver too!'
               label='AI'
               path='https://dai-ibrahim.github.io/Mazes_Prod/'
             />
             <CardItem
-              src='images/img-art.jpeg'
+              src= {imgart}
               text='A vector illustration of Sans from the Undertale video game series.'
               label='Art'
               path='https://daibrahim.artstation.com/projects/rR6qlE'
