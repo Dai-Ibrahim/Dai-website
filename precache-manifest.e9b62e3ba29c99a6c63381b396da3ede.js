@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "a161c9a6378509bdfeb29b933cbd9b7c",
+    "revision": "442da4ea38cebad5904b124f9af341d8",
     "url": "/Dai-website/index.html"
   },
   {
