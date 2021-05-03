@@ -112,7 +112,7 @@ function Portfolio() {
           </div>
         
           <div id="art"> 
-          <h1>Digital Art</h1>
+          <h1>Digital AAArt</h1>
 
           <ul className='cards__items'>
             <CardItem
