@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "56ead15a189775e5dfbe985c1241b391",
+    "revision": "287f374abf7e584e88f456938782f644",
     "url": "/Dai-website/index.html"
   },
   {
-    "revision": "844b6e593d89a0a97958",
+    "revision": "19f38eb99a78e43c762a",
     "url": "/Dai-website/static/css/main.119ef512.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Dai-website/static/js/2.370098d2.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "844b6e593d89a0a97958",
-    "url": "/Dai-website/static/js/main.896c9256.chunk.js"
+    "revision": "19f38eb99a78e43c762a",
+    "url": "/Dai-website/static/js/main.35e48dbf.chunk.js"
   },
   {
     "revision": "05822867879605c9d9f0",
