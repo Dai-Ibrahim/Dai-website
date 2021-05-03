@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/Dai-website/static/css/main.119ef512.chunk.css",
-    "main.js": "/Dai-website/static/js/main.35e48dbf.chunk.js",
-    "main.js.map": "/Dai-website/static/js/main.35e48dbf.chunk.js.map",
+    "main.js": "/Dai-website/static/js/main.99ab58e1.chunk.js",
+    "main.js.map": "/Dai-website/static/js/main.99ab58e1.chunk.js.map",
     "runtime-main.js": "/Dai-website/static/js/runtime-main.76db82a9.js",
     "runtime-main.js.map": "/Dai-website/static/js/runtime-main.76db82a9.js.map",
-    "static/js/2.370098d2.chunk.js": "/Dai-website/static/js/2.370098d2.chunk.js",
-    "static/js/2.370098d2.chunk.js.map": "/Dai-website/static/js/2.370098d2.chunk.js.map",
+    "static/js/2.af5412e1.chunk.js": "/Dai-website/static/js/2.af5412e1.chunk.js",
+    "static/js/2.af5412e1.chunk.js.map": "/Dai-website/static/js/2.af5412e1.chunk.js.map",
     "index.html": "/Dai-website/index.html",
-    "precache-manifest.af4f736074aedfcac2161b05532684cf.js": "/Dai-website/precache-manifest.af4f736074aedfcac2161b05532684cf.js",
+    "precache-manifest.36d51e529232c4458ceff109a2ee7c59.js": "/Dai-website/precache-manifest.36d51e529232c4458ceff109a2ee7c59.js",
     "service-worker.js": "/Dai-website/service-worker.js",
     "static/css/main.119ef512.chunk.css.map": "/Dai-website/static/css/main.119ef512.chunk.css.map",
-    "static/js/2.370098d2.chunk.js.LICENSE.txt": "/Dai-website/static/js/2.370098d2.chunk.js.LICENSE.txt",
+    "static/js/2.af5412e1.chunk.js.LICENSE.txt": "/Dai-website/static/js/2.af5412e1.chunk.js.LICENSE.txt",
     "static/media/img-CTF.jpg": "/Dai-website/static/media/img-CTF.b40f62cb.jpg",
     "static/media/img-DI.jpg": "/Dai-website/static/media/img-DI.c3e8df01.jpg",
     "static/media/img-IR.jpg": "/Dai-website/static/media/img-IR.630f2545.jpg",
@@ -21,19 +21,23 @@
     "static/media/img-ball.jpg": "/Dai-website/static/media/img-ball.33cb9116.jpg",
     "static/media/img-ca.jpg": "/Dai-website/static/media/img-ca.3d848b99.jpg",
     "static/media/img-cake.jpg": "/Dai-website/static/media/img-cake.ae02937c.jpg",
+    "static/media/img-dio.jpg": "/Dai-website/static/media/img-dio.6b1d87cd.jpg",
+    "static/media/img-gaze.jpg": "/Dai-website/static/media/img-gaze.02ae84d0.jpg",
     "static/media/img-iso.jpg": "/Dai-website/static/media/img-iso.f338a0a2.jpg",
     "static/media/img-maze.jpg": "/Dai-website/static/media/img-maze.7cee0f82.jpg",
     "static/media/img-resume.png": "/Dai-website/static/media/img-resume.4f59ebdd.png",
     "static/media/img-sm.jpg": "/Dai-website/static/media/img-sm.d9c1db86.jpg",
     "static/media/img-sp.jpg": "/Dai-website/static/media/img-sp.1fadf0b0.jpg",
+    "static/media/img-telep.jpg": "/Dai-website/static/media/img-telep.4e2daf06.jpg",
     "static/media/img-tpf.jpg": "/Dai-website/static/media/img-tpf.5e86134c.jpg",
+    "static/media/img-ui.jpg": "/Dai-website/static/media/img-ui.afce605f.jpg",
     "static/media/img-witch.jpg": "/Dai-website/static/media/img-witch.cd1a372a.jpg",
     "static/media/video-3.mp4": "/Dai-website/static/media/video-3.2dc28c9a.mp4"
   },
   "entrypoints": [
     "static/js/runtime-main.76db82a9.js",
-    "static/js/2.370098d2.chunk.js",
+    "static/js/2.af5412e1.chunk.js",
     "static/css/main.119ef512.chunk.css",
-    "static/js/main.35e48dbf.chunk.js"
+    "static/js/main.99ab58e1.chunk.js"
   ]
 }

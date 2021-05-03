@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "287f374abf7e584e88f456938782f644",
+    "revision": "75d6d4dbe8dc652ed8957ef09aa39cab",
     "url": "/Dai-website/index.html"
   },
   {
-    "revision": "19f38eb99a78e43c762a",
+    "revision": "3a20863a315e8ba9d619",
     "url": "/Dai-website/static/css/main.119ef512.chunk.css"
   },
   {
-    "revision": "1ed1290cac704c335c12",
-    "url": "/Dai-website/static/js/2.370098d2.chunk.js"
+    "revision": "27db0d476f81ae904a6c",
+    "url": "/Dai-website/static/js/2.af5412e1.chunk.js"
   },
   {
     "revision": "9b318b6fb13190fe82c0677e9264b3c7",
-    "url": "/Dai-website/static/js/2.370098d2.chunk.js.LICENSE.txt"
+    "url": "/Dai-website/static/js/2.af5412e1.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "19f38eb99a78e43c762a",
-    "url": "/Dai-website/static/js/main.35e48dbf.chunk.js"
+    "revision": "3a20863a315e8ba9d619",
+    "url": "/Dai-website/static/js/main.99ab58e1.chunk.js"
   },
   {
     "revision": "05822867879605c9d9f0",
@@ -60,6 +60,14 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Dai-website/static/media/img-cake.ae02937c.jpg"
   },
   {
+    "revision": "6b1d87cd4c74abaf732352648bbabeca",
+    "url": "/Dai-website/static/media/img-dio.6b1d87cd.jpg"
+  },
+  {
+    "revision": "02ae84d0f69827fcc81232fb180f99d8",
+    "url": "/Dai-website/static/media/img-gaze.02ae84d0.jpg"
+  },
+  {
     "revision": "f338a0a26985eb40dd6f5a9e8509e08a",
     "url": "/Dai-website/static/media/img-iso.f338a0a2.jpg"
   },
@@ -80,8 +88,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Dai-website/static/media/img-sp.1fadf0b0.jpg"
   },
   {
+    "revision": "4e2daf06ab08d607f3794271cae93a9b",
+    "url": "/Dai-website/static/media/img-telep.4e2daf06.jpg"
+  },
+  {
     "revision": "5e86134c8b164c445dce02b380944c26",
     "url": "/Dai-website/static/media/img-tpf.5e86134c.jpg"
+  },
+  {
+    "revision": "afce605fb6483634402dd802a35bd6bb",
+    "url": "/Dai-website/static/media/img-ui.afce605f.jpg"
   },
   {
     "revision": "cd1a372aeb7497f8520612fe358f79b3",
