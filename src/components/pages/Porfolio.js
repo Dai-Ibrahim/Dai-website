@@ -110,6 +110,36 @@ function Portfolio() {
             />
           </ul>
           </div>
+          <div id="art"> 
+          <h1>Digital Art</h1>
+
+          <ul className='cards__items'>
+            <CardItem
+              src='images/img-art.jpeg'
+              text='A vector illustration of Sans from the Undertale video game series.'
+              label='Sans'
+              path='https://daibrahim.artstation.com/projects/rR6qlE'
+            />
+            <CardItem
+              src='images/img-sm.jpg'
+              text='A digital painting of Miles Morales as Spiderman from Spider-Man: Into The Spider-Verse.'
+              label='Spider-Man'
+              path='https://daibrahim.artstation.com/projects/rABg6e'
+            />
+            <CardItem
+              src='images/img-iso.jpg'
+              text='A vector illustration of city in isometric view.'
+              label='Iso-City'
+              path='https://daibrahim.artstation.com/projects/8l4KQq'
+            />
+            <CardItem
+              src='images/img-witch.jpg'
+              text='A digtal painting of a witch cooking in front of a window.'
+              label='Little Witch'
+              path='https://daibrahim.artstation.com/projects/PoJLQ8?album_id=2129994'
+            />
+          </ul>
+          </div>
 
           <div id="art"> 
           <h1>Digital Art</h1>
@@ -141,6 +171,7 @@ function Portfolio() {
             />
           </ul>
           </div>
+    
           
         </div>
       </div>
