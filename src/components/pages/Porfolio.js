@@ -50,7 +50,7 @@ function Portfolio() {
                 src={imgresume}
                 text="Dai's Engineering Resume"
                 label='PDF'
-                path='https://drive.google.com/file/d/1-bMMrbKJdjhkO21A2-0VWjsWFWZ3f-fG/view?usp=sharing'
+                path='https://drive.google.com/file/d/1G5YuveEEE0uRnbsQAxMS5LU0TlQhA6hP/view?usp=sharing'
               />
             </ul>
             </div>
