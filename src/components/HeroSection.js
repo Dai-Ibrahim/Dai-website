@@ -10,7 +10,7 @@ function HeroSection() {
     <div className='hero-container'>
       <video src={startvid} autoPlay loop muted />
       <h1>Dai Ibrahim</h1>
-      <p>Software Engineering Student at Embry-Riddle Aeronautical University</p>
+      <p>Software Engineer | Tools and Platforms</p>
       <div className='hero-btns'>
         <Button
           className='btns'
